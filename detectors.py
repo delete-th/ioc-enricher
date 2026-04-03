@@ -1,0 +1,1 @@
+# IOC type detection (regex)
